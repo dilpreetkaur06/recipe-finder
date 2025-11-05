@@ -12,7 +12,7 @@ Features
 🌐 Simple, responsive UI
 
 Installation Guide
-1. Install XAMPP
+Install XAMPP
 Download and install XAMPP for your operating system.
 
 After installation, open the XAMPP Control Panel.
