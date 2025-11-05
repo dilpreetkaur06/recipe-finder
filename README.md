@@ -1,4 +1,4 @@
-# recipe-finder
+# Recipe-finder
 A PHP-based web application that allows users to search for recipes, view ingredients and preparation steps, and explore new dishes easily. The project also includes user registration and login functionality.
 Features
 🔍 Search recipes by name or ingredients
